@@ -23,6 +23,6 @@ I specialize in building scalable, maintainable back-end systems within the **JV
 ### 📫 Let's Connect:
 - **LinkedIn:** [linkedin.com/in/areguig](https://www.linkedin.com/in/areguig/)
 - **Website:** [areguig.github.io/about/](https://areguig.github.io/about/)
-- **Stack Overflow:** [Member since 2012](https://stackoverflow.com/users/1529139/akli-reguig) (Top contributor in Java/PostgreSQL)
+- **Stack Overflow:** [Member since 2012](https://stackoverflow.com/users/1360584/akli-reguig)
 
 > "If you think good architecture is expensive, try bad architecture."
