@@ -1,6 +1,6 @@
 # Hi, I'm Akli 👋 
 
-### Software Engineer, Freelance Consultant & President of a SAS based in Paris 🇫🇷
+### Software Engineer, Freelance Consultant based in Paris 🇫🇷
 
 I am a backend developer in the JVM ecosystem for more than 10 years. Lately, my main focus is **Agentic Engineering**. I build applications powered by AI agents and I help tech teams to put AI inside their daily work. 
 
