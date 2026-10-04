@@ -37,6 +37,5 @@ I am a backend developer in the JVM ecosystem for more than 10 years. Lately, my
 
 ### 📫 Let's Connect:
 - **LinkedIn:** [linkedin.com/in/areguig](https://www.linkedin.com/in/areguig/)
-- **Website:** [areguig.github.io/about/](https://areguig.github.io/about/)
 
 > "If you think good architecture is expensive, try bad architecture."
