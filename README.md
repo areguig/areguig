@@ -7,10 +7,10 @@ I am a backend developer in the JVM ecosystem for more than 10 years. Lately, my
 ---
 
 ### 🚀 What I do right now:
-- **Agentic Applications:** Building smart apps with AI agents that can do complex tasks by themselves (using Spring AI, LLMs like Vertex AI/Gemini).
-- **AI Flows for Tech Teams:** Setting up AI tools (like Claude Code, Copilot) and workflows for everyone in the project so the whole team works faster and drops the boring tasks.
-- **Backend Architecture:** Coding solid microservices with Java, Spring Boot, and Gradle.
-- **DevOps & Cloud:** Making simple pipelines to test and deploy containerized code on GCP Kubernetes and GitLab CI/CD without stress.
+- **Agentic Applications:** Building smart apps with AI agents that can do complex tasks by themselves.
+- **AI Flows for Tech Teams:** Setting up/building AI tools and workflows for everyone in the project so the whole team works faster and drops the boring tasks.
+- **Backend Architecture:** Coding solid microservices with Java and Spring Boot.
+- **DevOps & Cloud:** Making simple pipelines to test and deploy containerized code on GCP Kubernetes using GitLab CI/CD.
 
 ### 🛠 My Tech Toolbox:
 
