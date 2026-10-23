@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="232" viewBox="0 0 580 232" role="img" aria-label="petit-poucet">
+  <defs>
+    <radialGradient id="g" cx="0" cy="0" r="1"><stop offset="0" stop-color="#d4ff3f" stop-opacity="0.10"/><stop offset="1" stop-color="#d4ff3f" stop-opacity="0"/></radialGradient>
+    <style>.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+  </defs>
+  <rect width="580" height="232" rx="22" fill="#0e0e11"/>
+  <rect width="580" height="232" rx="22" fill="url(#g)"/>
+  <rect x="0.5" y="0.5" width="579" height="231" rx="22" fill="none" stroke="#d4ff3f" stroke-opacity="0.45"/>
+  <rect x="30" y="28" width="176" height="24" rx="12" fill="none" stroke="#d4ff3f" stroke-opacity="0.5"/><text class="mono" x="118" y="44" font-size="11" fill="#d4ff3f" text-anchor="middle">open source · featured</text>
+  <text class="sans" x="30" y="98" font-size="30" font-weight="600" letter-spacing="-0.8" fill="#ecebe6">petit-poucet</text>
+  <circle cx="530" cy="88" r="17" fill="none" stroke="#3a3a44"/>
+  <path d="M524 94l12-12m-9 0h9v9" fill="none" stroke="#d4ff3f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="sans" x="30" y="136" font-size="16" fill="#a3a29b">One memory for every coding agent.</text><text class="sans" x="30" y="160" font-size="16" fill="#a3a29b">Markdown in git, served over MCP.</text>
+  <rect x="30" y="180" width="45" height="24" rx="12" fill="#131317" stroke="#26262d"/><text class="mono" x="52" y="196" font-size="11" fill="#a3a29b" text-anchor="middle">Rust</text><rect x="82.8" y="180" width="38" height="24" rx="12" fill="#131317" stroke="#26262d"/><text class="mono" x="102" y="196" font-size="11" fill="#a3a29b" text-anchor="middle">MCP</text><rect x="128.4" y="180" width="117" height="24" rx="12" fill="#131317" stroke="#26262d"/><text class="mono" x="187" y="196" font-size="11" fill="#a3a29b" text-anchor="middle">Markdown + git</text>
+</svg>
