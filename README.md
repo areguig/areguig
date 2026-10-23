@@ -16,12 +16,12 @@
 
 ### `01` &nbsp;What I do
 
-| | |
-|---|---|
-| **Agentic engineering** | Agents that do real work, whatever the harness: Claude Code, OpenCode, OMP, Pi, Copilot. MCP servers, skills, shared memory. |
-| **Backends that hold up** | Java and Spring. Clean APIs, event-driven services, tested before trusted. |
-| **DevOps, for real** | Continuous integration and delivery, containers, Kubernetes, cloud. Pipelines so boring nobody talks about them. |
-| **Bringing the team along** | Coding dojos, pair and mob programming, AI fitted into the way a team already works. |
+<table>
+  <tr><td width="30%"><b>Agentic engineering</b></td><td>Agents that do real work, whatever the harness: Claude Code, OpenCode, OMP, Pi, Copilot. MCP servers, skills, shared memory.</td></tr>
+  <tr><td width="30%"><b>Backends that hold up</b></td><td>Java and Spring. Clean APIs, event-driven services, tested before trusted.</td></tr>
+  <tr><td width="30%"><b>DevOps, for real</b></td><td>Continuous integration and delivery, containers, Kubernetes, cloud. Pipelines so boring nobody talks about them.</td></tr>
+  <tr><td width="30%"><b>Bringing the team along</b></td><td>Coding dojos, pair and mob programming, AI fitted into the way a team already works.</td></tr>
+</table>
 
 ### `02` &nbsp;Selected work
 
